@@ -1,0 +1,32 @@
+* {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: regular;
+  color: white;
+}
+
+.cta {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+}
